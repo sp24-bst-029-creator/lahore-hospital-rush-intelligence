@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Datasets (keep patient-level or restricted data off GitHub)
+data/*
+!data/.gitkeep
+!data/README.md
+
+# Generated outputs and trained models
+outputs/*
+!outputs/.gitkeep
+!outputs/README.md
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local backup files
+app_backup.py
