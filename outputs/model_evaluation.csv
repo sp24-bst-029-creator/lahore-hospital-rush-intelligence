@@ -1,0 +1,2 @@
+rows,train_rows,test_rows,time_only_MAE,time_only_RMSE,time_weather_MAE,time_weather_RMSE
+8760,7008,1752,2.7079557249158226,3.5272634626479467,2.6065328087007207,3.4116860412321843

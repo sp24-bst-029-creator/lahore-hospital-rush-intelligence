@@ -1,0 +1,3 @@
+model,MAE,RMSE
+Random Forest - time only,2.7079557249158226,3.5272634626479467
+Random Forest - time + historical weather,2.6065328087007207,3.4116860412321843
